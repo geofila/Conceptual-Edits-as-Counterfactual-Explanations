@@ -12,7 +12,7 @@ class Graph:
         self.node_to_id = {node: id for id, node in self.id_to_node.items()}
 
     def create_graph(self, filename = None):
-        keys = list(self.node_to_id.keys())
+        keys = list(self.id_to_node.keys())
 
         self.matr = np.zeros((len(keys), len(keys)))
         for i in tqdm(range (len(keys))):
