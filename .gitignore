@@ -1,3 +1,6 @@
 .DS_Store
 .ipynb_checkpoints
 .idea
+graph.npy
+annotations
+coco-graph.npy

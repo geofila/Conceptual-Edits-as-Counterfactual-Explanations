@@ -47,7 +47,7 @@ class COCO:
             self.coco[im_id]["pred_class"] = predictions[im_id]
             valid_ids.append(im_id)
             
-          elif predictions == None: # αν η εικόνα υπάρχει στο url
+          elif predictions == None:
             try:
                 pred = model.classify(self.coco[im_id]["url"])[0]
                 self.coco[im_id]["pred_class"] = pred
