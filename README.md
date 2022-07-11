@@ -15,5 +15,5 @@ This repository contains code for our paper, [Conceptual Edits as Counterfactual
 
 ## Counterfactual Explanations
 <p align = "center"><img src = "https://github.com/geofila/Conceptual-Edits-as-Counterfactual-Explanations/blob/master/System Arch.png"></p><p align = "center">
-  <b>Fig.1</b>: *System Architecture*
+  <b>Fig.1</b>: * System Architecture *
 </p>
