@@ -1,4 +1,4 @@
-# Conceptual-Edits-as-Counterfactual-Explanations
+# Conceptual Edits as Counterfactual Explanations
 
 This repository contains code for our paper, [Conceptual Edits as Counterfactual Explanations](http://ceur-ws.org/Vol-3121/paper6.pdf)
 
